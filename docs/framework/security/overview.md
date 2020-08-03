@@ -48,3 +48,4 @@ These are the topics we cover in the security pillar of the Microsoft Azure Well
 [admin]: ./critical-impact-accounts.md
 [info]: ./storage-data-encryption.md
 [sec-ops]: ./security-operations.md
+
